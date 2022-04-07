@@ -23,7 +23,7 @@ a, a:visited {
     display: flex;
     flex-direction: column;
     margin: 10px 10px 0px 10px;
-    padding: 16px 24px 8px 24px;
+    padding: 16px 48px 8px 48px;
 }
 
 .headerContainer {
