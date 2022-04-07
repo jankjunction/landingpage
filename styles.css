@@ -12,6 +12,12 @@ body {
     flex-direction: column;
 }
 
+a, a:visited {
+    color: #e5e7eb;
+    text-decoration: none;
+}
+
+
 .hero {
     background-color: #1f2937;
     display: flex;
@@ -34,7 +40,7 @@ body {
 }
 
 .headerNav {
-    color: e5e7eb;
+    color: #e5e7eb;
     display: flex;
     gap: 16px;
     margin: 0;
@@ -84,6 +90,7 @@ button.heroInfo {
     border-radius: 4px;
     border: none;
     padding: 4px 16px;
+    font-size: 18px;
 }
 
 .heroImage {
@@ -180,7 +187,7 @@ button.cta {
     border-radius: 4px;
     color: #f9faf8;
     background-color: #3882f6;
-    font-size: 24px;
+    font-size: 18px;
     padding: 4px 16px;
 }
 
